@@ -7,5 +7,5 @@
   <li>Movie Recommendation Sytem : Cosine Similarity <br></li>
   <li>Digits Classification : Random Forest Classifier <br></li>
   <li> Gold Price Prediction : Random Forest Regressor <br></li>
-  
+  <li> Diabetes Prediction : Bagging (Decision Tree) <br></li>
 </ol>
