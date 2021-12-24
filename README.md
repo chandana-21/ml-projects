@@ -8,4 +8,5 @@
   <li>Digits Classification : Random Forest Classifier <br></li>
   <li> Gold Price Prediction : Random Forest Regressor <br></li>
   <li> Diabetes Prediction : Bagging (Decision Tree) <br></li>
+  <li> Supermarket Sales Prediction : XGBoosting <br></li>
 </ol>
