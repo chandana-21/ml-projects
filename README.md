@@ -1,4 +1,4 @@
-# ML Practice Projects
+# Machine Learning Practice Projects
 <ol>
   <li>Fake News Detection : Logistic Regression <br></li>
   <li>Loan Status Prediction : Support Vector Machine (SVM) <br></li>
