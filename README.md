@@ -10,5 +10,5 @@
   <li> Diabetes Prediction : Bagging (Decision Tree) <br></li>
   <li> Supermarket Sales Prediction : XGBoosting Regressor <br></li>
   <li> Income Classification : K Means Clustering <br></li>
-  <li> Spam SMS Classification (NLP) : Multinomial Naïve Bayes Classifier <br><li>
+  <li> Spam SMS Classification (NLP) : Multinomial Naïve Bayes Classifier <br></li>
 </ol>
